@@ -22,9 +22,14 @@
 </p>
 
 <!-- GitHub -->
-<a href="https://github.com/YoshiYoshiPro/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=YoshiYoshiPro&hide=contribs&count_private=true&include_all_commits=true&show_icons=true&theme=outrun" />
-</a>
-<a href="https://github.com/YoshiYoshiPro/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshiYoshiPro&layout=compact&theme=outrun" />
-</a>
+<p align="left">
+  <a href="https://github.com/YoshiYoshiPro/github-readme-stats">
+    <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=YoshiYoshiPro&hide=contribs&count_private=true&include_all_commits=true&show_icons=true&theme=outrun" />
+  </a>
+  <a href="https://github.com/YoshiYoshiPro/github-readme-stats">
+    <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshiYoshiPro&layout=compact&theme=outrun" />
+  </a>
+</p>
+
+<!-- トロフィー -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=YoshiYoshiPro&theme=matrix&column=6)](https://github.com/ryo-ma/github-profile-trophy)
