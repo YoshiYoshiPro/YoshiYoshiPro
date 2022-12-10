@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Lkx1BBV5aGGMcZTiVr/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Lkx1BBV5aGGMcZTiVr/giphy.gif" height="200px"/>
   <div id="badges">
     <a href="https://qiita.com/Yoshipy">
       <img src="https://img.shields.io/badge/Qiita-green?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Badge"/>
@@ -24,22 +24,6 @@
 
 # :adult: **About Me :**
 ```yaml
-LANG: English
-name: Hiroki Yoshioka
-located_in: Nagoya, Japan
-current_job: University student
-major: Computer Science
-fields_of_interests:
-  [
-    "Web Development",
-    "Mobile App Development",
-    "Data Science",
-    "Machine Learning",
-    "Information Security",
-  ]
-currently_learning: ["Docker", "React", "Unity"]
-hobbies: ["YouTube", "Anime", "Snowboarding"]
-
 LANG: Japanese
 名前: 吉岡宏樹
 居住地: 名古屋, 日本
@@ -55,6 +39,23 @@ LANG: Japanese
   ]
 学んでいること: ["Docker", "React", "Unity"]
 趣味: ["YouTube鑑賞", "アニメ鑑賞", "スノーボード"]
+
+
+LANG: English
+name: Hiroki Yoshioka
+located_in: Nagoya, Japan
+current_job: University student
+major: Computer Science
+fields_of_interests:
+  [
+    "Web Development",
+    "Mobile App Development",
+    "Data Science",
+    "Machine Learning",
+    "Information Security",
+  ]
+currently_learning: ["Docker", "React", "Unity"]
+hobbies: ["YouTube", "Anime", "Snowboarding"]
 ```
 
 # :fire: **My Stats :**
