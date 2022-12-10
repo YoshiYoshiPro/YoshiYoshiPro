@@ -42,10 +42,10 @@ I am a student in a Japanese University :crossed_flags:
 <!-- GitHub -->
 <div align="left">
   <a href="https://github.com/YoshiYoshiPro/github-readme-stats">
-    <img alt="github stats" height="200px" width="250px" src="https://github-readme-stats.vercel.app/api?username=YoshiYoshiPro&hide=contribs&count_private=true&include_all_commits=true&show_icons=true&theme=outrun" />
+    <img alt="github stats" width="250px" src="https://github-readme-stats.vercel.app/api?username=YoshiYoshiPro&hide=contribs&count_private=true&include_all_commits=true&show_icons=true&theme=outrun" />
   </a>
   <a href="https://github.com/YoshiYoshiPro/github-readme-stats">
-    <img alt="Top Langs" height="200px" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshiYoshiPro&layout=compact&theme=outrun" />
+    <img alt="Top Langs" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshiYoshiPro&layout=compact&theme=outrun" />
   </a>
 </div>
 
@@ -87,7 +87,7 @@ I am a student in a Japanese University :crossed_flags:
 </div>
 
 # :writing_hand: **Latest articles:**
-### <img src="./img/qiita-chara.svg" width="70px"> <img src="./img/qiita-text.svg" width="70px">
+### <img src="./img/qiita-text.svg" width="70px">
 <!-- BLOG-POST-LIST:START -->
 - [DockerでVue.jsとFlaskを連携するSPA開発](https://qiita.com/Yoshipy/items/efbe34d9f28ac16f44ad)
 - [はじめてのチーム開発のためのGit入門](https://qiita.com/Yoshipy/items/4d7cb91add2bafc84631)
