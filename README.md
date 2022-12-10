@@ -40,7 +40,7 @@ I am a student in a Japanese University :crossed_flags:
 
 
 
-# My Status
+# :fire: **My Stats :**
 
 <!-- Qiita -->
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Yoshipy/posts.svg)](http://qiita.com/Yoshipy) 
@@ -63,6 +63,8 @@ I am a student in a Japanese University :crossed_flags:
     <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshiYoshiPro&layout=compact&theme=outrun" />
   </a>
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YoshiYoshiPro&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!-- トロフィー -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=YoshiYoshiPro&theme=matrix&column=6)](https://github.com/ryo-ma/github-profile-trophy)
