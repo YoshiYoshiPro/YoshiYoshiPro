@@ -18,13 +18,12 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/LIiJXb6xfpJQakNyHF/giphy.gif" width="600" height="300"/>
 </div>
----
 
 # :adult: **About Me :**
 ```yaml
-lang: Japanese
+言語: 日本語
 名前: 吉岡宏樹
 居住地: 名古屋, 日本
 職業: 大学生
