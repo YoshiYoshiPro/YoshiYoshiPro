@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Lkx1BBV5aGGMcZTiVr/giphy.gif" width="100"/>
-  
   <div id="badges">
     <a href="https://qiita.com/Yoshipy">
       <img src="https://img.shields.io/badge/Qiita-green?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Badge"/>
@@ -12,48 +11,34 @@
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
-  
   <img src="https://komarev.com/ghpvc/?username=YoshiYoshiPro&style=flat-square&color=blue" alt="views"/>
-  
   <h1>
     Hi there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
-
 ---
 
 # :adult: **About Me :**
 I am a student in a Japanese University :crossed_flags:
 - :computer: I'm majoring in Computer Science.
-
 - :books: Exploring Technical Content Writing.
-
 - :palm_tree: In my free time, I watch reaction videos of foreigners' reactions to Japanese anime.
 
-
-
-
-
-
 # :fire: **My Stats :**
-
 <!-- Qiita -->
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Yoshipy/posts.svg)](http://qiita.com/Yoshipy) 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Yoshipy/contributions.svg)](http://qiita.com/Yoshipy) 
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/Yoshipy/followers.svg)](http://qiita.com/Yoshipy)
-
 <!-- Twitter -->
 <p>
   <a href="https://twitter.com/yoshi_engineer0" target="_blank">
     <img alt="Twitter: yoshi_engineer0" src="https://img.shields.io/twitter/follow/yoshi_engineer0.svg?style=social" />
   </a>
 </p>
-
 <!-- GitHub -->
 <div align="left">
   <a href="https://github.com/YoshiYoshiPro/github-readme-stats">
@@ -64,26 +49,14 @@ I am a student in a Japanese University :crossed_flags:
   </a>
 </div>
 
+<!-- streak -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YoshiYoshiPro&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!-- トロフィー -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=YoshiYoshiPro&theme=matrix&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- スネークゲーム -->
+![github-contribution-grid-snake](https://raw.githubusercontent.com/YoshiYoshiPro/YoshiYoshiPro/master/img/snake.svg) 
 
 # :hammer_and_wrench: **Languages and Tools :**
 <div>
@@ -112,6 +85,3 @@ I am a student in a Japanese University :crossed_flags:
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>
 </div>
-
-
-![github-contribution-grid-snake](https://raw.githubusercontent.com/YoshiYoshiPro/YoshiYoshiPro/master/img/snake.svg) 
