@@ -1,4 +1,32 @@
-# Hiroki Yoshioka
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Lkx1BBV5aGGMcZTiVr/giphy.gif" width="100"/>
+  
+  <div id="badges">
+    <a href="https://qiita.com/Yoshipy">
+      <img src="https://img.shields.io/badge/Qiita-green?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Badge"/>
+    </a>
+    <a href="https://twitter.com/yoshi_engineer0">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UCsIwNhdlsXs2d7ma9GdIpzQ">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+  </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=YoshiYoshiPro&style=flat-square&color=blue" alt="views"/>
+  
+  <h1>
+    Hi there
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+</div>
+
+
+
+
+
+
+
 **WHO?**：University student (B2)  
 **Major**：Computer Science
 
