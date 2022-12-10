@@ -42,10 +42,10 @@ I am a student in a Japanese University :crossed_flags:
 <!-- GitHub -->
 <div align="left">
   <a href="https://github.com/YoshiYoshiPro/github-readme-stats">
-    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=YoshiYoshiPro&hide=contribs&count_private=true&include_all_commits=true&show_icons=true&theme=outrun" />
+    <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=YoshiYoshiPro&hide=contribs&count_private=true&include_all_commits=true&show_icons=true&theme=outrun" />
   </a>
   <a href="https://github.com/YoshiYoshiPro/github-readme-stats">
-    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshiYoshiPro&layout=compact&theme=outrun" />
+    <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshiYoshiPro&layout=compact&theme=outrun" />
   </a>
 </div>
 
