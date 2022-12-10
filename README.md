@@ -21,14 +21,19 @@
   </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
 
+---
 
+# :adult: **About Me :**
+I am a student in a Japanese University :crossed_flags:
+- :computer: I'm majoring in Computer Science.
 
+- :books: Exploring Technical Content Writing.
 
-
-
-**WHO?**：University student (B2)  
-**Major**：Computer Science
+- :palm_tree: In my free time, I watch reaction videos of foreigners' reactions to Japanese anime.
 
 
 
@@ -61,3 +66,22 @@
 
 <!-- トロフィー -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=YoshiYoshiPro&theme=matrix&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# :hammer_and_wrench: **Languages and Tools :**
+
