@@ -23,10 +23,39 @@
 ---
 
 # :adult: **About Me :**
-I am a student in a Japanese University :crossed_flags:
-- :computer: I'm majoring in Computer Science.
-- :books: Exploring Technical Content Writing.
-- :palm_tree: In my free time, I watch reaction videos of foreigners' reactions to Japanese anime.
+```yaml
+LANG: English
+name: Hiroki Yoshioka
+located_in: Nagoya, Japan
+current_job: University student
+major: Computer Science
+fields_of_interests:
+  [
+    "Web Development",
+    "Mobile App Development",
+    "Data Science",
+    "Machine Learning",
+    "Information Security",
+  ]
+currently_learning: ["Docker", "React", "Unity"]
+hobbies: ["YouTube", "Anime", "Snowboarding"]
+
+LANG: Japanese
+名前: 吉岡宏樹
+居住地: 名古屋, 日本
+職業: 大学生
+専攻: 情報工学
+興味のある分野:
+  [
+    "Web開発",
+    "ネイティブアプリ開発",
+    "データサイエンス",
+    "機械学習",
+    "情報セキュリティ",
+  ]
+学んでいること: ["Docker", "React", "Unity"]
+趣味: ["YouTube鑑賞", "アニメ鑑賞", "スノーボード"]
+```
 
 # :fire: **My Stats :**
 <!-- Qiita -->
@@ -86,7 +115,7 @@ I am a student in a Japanese University :crossed_flags:
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>
 </div>
 
-# :writing_hand: **Latest articles:**
+# :writing_hand: **Latest articles :**
 ### <img src="./img/qiita-text.svg" height="40px" width="100px">
 <!-- BLOG-POST-LIST:START -->
 - [DockerでVue.jsとFlaskを連携するSPA開発](https://qiita.com/Yoshipy/items/efbe34d9f28ac16f44ad)
