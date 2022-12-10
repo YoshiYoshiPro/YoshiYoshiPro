@@ -42,10 +42,10 @@ I am a student in a Japanese University :crossed_flags:
 <!-- GitHub -->
 <div align="left">
   <a href="https://github.com/YoshiYoshiPro/github-readme-stats">
-    <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=YoshiYoshiPro&hide=contribs&count_private=true&include_all_commits=true&show_icons=true&theme=outrun" />
+    <img alt="github stats" height="200px" width="100px" src="https://github-readme-stats.vercel.app/api?username=YoshiYoshiPro&hide=contribs&count_private=true&include_all_commits=true&show_icons=true&theme=outrun" />
   </a>
   <a href="https://github.com/YoshiYoshiPro/github-readme-stats">
-    <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshiYoshiPro&layout=compact&theme=outrun" />
+    <img alt="Top Langs" height="200px" width="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoshiYoshiPro&layout=compact&theme=outrun" />
   </a>
 </div>
 
@@ -56,7 +56,7 @@ I am a student in a Japanese University :crossed_flags:
 [![trophy](https://github-profile-trophy.vercel.app/?username=YoshiYoshiPro&theme=matrix&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- スネークゲーム -->
-![github-contribution-grid-snake](https://raw.githubusercontent.com/YoshiYoshiPro/YoshiYoshiPro/master/img/snake.svg) 
+![github-contribution-grid-snake](https://raw.githubusercontent.com/YoshiYoshiPro/YoshiYoshiPro/master/img/snake.svg)
 
 # :hammer_and_wrench: **Languages and Tools :**
 <div>
@@ -86,6 +86,7 @@ I am a student in a Japanese University :crossed_flags:
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>
 </div>
 
+# :writing_hand: **Latest articles:**
 <!-- BLOG-POST-LIST:START -->
 - [DockerでVue.jsとFlaskを連携するSPA開発](https://qiita.com/Yoshipy/items/efbe34d9f28ac16f44ad)
 - [はじめてのチーム開発のためのGit入門](https://qiita.com/Yoshipy/items/4d7cb91add2bafc84631)
