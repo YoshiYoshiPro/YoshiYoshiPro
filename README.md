@@ -118,6 +118,7 @@ hobbies: ["YouTube", "Anime", "Snowboarding"]
 <a src="https://qiita.com/Yoshipy">
   <img src="./img/qiita-text.svg" height="40px" width="100px">
 </a>
+
 <!-- BLOG-POST-LIST:START -->
 - [DockerでVue.jsとFlaskを連携するSPA開発](https://qiita.com/Yoshipy/items/efbe34d9f28ac16f44ad)
 - [はじめてのチーム開発のためのGit入門](https://qiita.com/Yoshipy/items/4d7cb91add2bafc84631)
