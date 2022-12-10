@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Lkx1BBV5aGGMcZTiVr/giphy.gif" height="200px"/>
+  <img src="https://media.giphy.com/media/Lkx1BBV5aGGMcZTiVr/giphy.gif" height="150px"/>
   <div id="badges">
     <a href="https://qiita.com/Yoshipy">
       <img src="https://img.shields.io/badge/Qiita-green?style=for-the-badge&logo=Qiita&logoColor=white" alt="Qiita Badge"/>
@@ -24,7 +24,7 @@
 
 # :adult: **About Me :**
 ```yaml
-LANG: Japanese
+lang: Japanese
 名前: 吉岡宏樹
 居住地: 名古屋, 日本
 職業: 大学生
@@ -40,8 +40,7 @@ LANG: Japanese
 学んでいること: ["Docker", "React", "Unity"]
 趣味: ["YouTube鑑賞", "アニメ鑑賞", "スノーボード"]
 
-
-LANG: English
+lang: English
 name: Hiroki Yoshioka
 located_in: Nagoya, Japan
 current_job: University student
