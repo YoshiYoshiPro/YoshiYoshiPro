@@ -50,7 +50,7 @@ fields_of_interests:
     "Mobile App Development",
     "Data Science",
     "Machine Learning",
-    "Information Security",
+    "Cyber Security",
   ]
 currently_learning: ["Docker", "React", "Unity"]
 hobbies: ["YouTube", "Anime", "Snowboarding"]
