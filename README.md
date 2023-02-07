@@ -30,13 +30,13 @@
 専攻: 情報工学
 興味のある分野:
   [
-    "Web開発",
-    "ネイティブアプリ開発",
+    "Web全般",
+    ”インフラ（laC)”,
     "データサイエンス",
     "機械学習",
     "情報セキュリティ",
   ]
-学んでいること: ["Docker", "React", "Unity"]
+学んでいること: CS全般
 趣味: ["YouTube鑑賞", "アニメ鑑賞", "スノーボード"]
 
 lang: English
@@ -47,12 +47,12 @@ major: Computer Science
 fields_of_interests:
   [
     "Web Development",
-    "Mobile App Development",
+    ”Infrastructure as Code”
     "Data Science",
     "Machine Learning",
     "Cyber Security",
   ]
-currently_learning: ["Docker", "React", "Unity"]
+currently_learning: CS
 hobbies: ["YouTube", "Anime", "Snowboarding"]
 ```
 
