@@ -23,37 +23,21 @@
 
 # :adult: **自己紹介**
 ```yaml
-言語: 日本語
-名前: 吉岡 宏樹
-居住地: 名古屋, 日本
-職業: 大学生
-専攻: 情報工学
-興味のある分野:
-  [
-    "Web全般",
-    ”インフラ（laC)”,
-    "データサイエンス",
-    "機械学習",
-    "情報セキュリティ",
-  ]
-学んでいること: CS全般
-趣味: ["YouTube鑑賞", "アニメ鑑賞", "スノーボード"]
+'言語': '日本語'
+'名前': '吉岡宏樹'
+'居住地': '名古屋'
+'職業': '大学生　（25卒）'
+'専攻': '情報工学'
+'興味のある分野': 'ソフトウェア技術全般'
+'技術領域': 'バックエンド/サーバーサイド'
 
-lang: English
-name: Hiroki Yoshioka
-located_in: Nagoya, Japan
-current_job: University student
-major: Computer Science
-fields_of_interests:
-  [
-    "Web Development",
-    ”Infrastructure as Code”
-    "Data Science",
-    "Machine Learning",
-    "Cyber Security",
-  ]
-currently_learning: CS
-hobbies: ["YouTube", "Anime", "Snowboarding"]
+'lang': 'English'
+'name': 'Hiroki Yoshioka'
+'located_in': 'Nagoya（Japan）'
+'current_job': 'UniversityStudent'
+'major': 'ComputerScience'
+'interests': 'Software'
+'technical_field': 'ServerSide'
 ```
 
 # :fire: **統計データ**
