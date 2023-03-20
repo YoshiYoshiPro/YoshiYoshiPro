@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/LIiJXb6xfpJQakNyHF/giphy.gif" width="600" height="300"/>
 </div>
 
-# :adult: **About Me :**
+# :adult: **自己紹介**
 ```yaml
 言語: 日本語
 名前: 吉岡 宏樹
@@ -56,7 +56,7 @@ currently_learning: CS
 hobbies: ["YouTube", "Anime", "Snowboarding"]
 ```
 
-# :fire: **My Stats :**
+# :fire: **統計データ**
 <!-- Qiita -->
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Yoshipy/posts.svg)](http://qiita.com/Yoshipy) 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Yoshipy/contributions.svg)](http://qiita.com/Yoshipy) 
@@ -83,7 +83,7 @@ hobbies: ["YouTube", "Anime", "Snowboarding"]
 <!-- スネークゲーム -->
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/YoshiYoshiPro/YoshiYoshiPro/master/img/snake.svg)
 
-# :hammer_and_wrench: **Languages and Tools :**
+# :hammer_and_wrench: **技術スタック**
 <div>
 <!--   言語     -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="55" height="55"/>&nbsp;
@@ -115,7 +115,7 @@ hobbies: ["YouTube", "Anime", "Snowboarding"]
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>
 </div>
 
-# :writing_hand: **Latest articles :**
+# :writing_hand: **執筆記事**
 <a src="https://qiita.com/Yoshipy">
   <img src="./img/qiita-text.svg" height="40px" width="100px">
 </a>
