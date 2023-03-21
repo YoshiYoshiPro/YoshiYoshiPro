@@ -21,7 +21,7 @@
   <img src="https://media.giphy.com/media/LIiJXb6xfpJQakNyHF/giphy.gif" width="600" height="300"/>
 </div>
 
-# :adult: **自己紹介**
+# **自己紹介**
 ```yaml
 '言語': '日本語'
 '名前': '吉岡宏樹'
@@ -40,7 +40,7 @@
 'technical_field': 'ServerSide'
 ```
 
-# :fire: **統計データ**
+# **統計データ**
 <!-- Qiita -->
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/Yoshipy/posts.svg)](http://qiita.com/Yoshipy) 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/Yoshipy/contributions.svg)](http://qiita.com/Yoshipy) 
@@ -67,7 +67,7 @@
 <!-- スネークゲーム -->
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/YoshiYoshiPro/YoshiYoshiPro/master/img/snake.svg)
 
-# :hammer_and_wrench: **技術スタック**
+# **技術スタック**
 <div>
 <!--   言語/フレームワーク     -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="55" height="55"/>&nbsp;
@@ -106,7 +106,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>
 </div>
 
-# :writing_hand: **執筆記事**
+# **執筆記事**
 <a src="https://qiita.com/Yoshipy">
   <img src="./img/qiita-text.svg" height="40px" width="100px">
 </a>
