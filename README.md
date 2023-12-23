@@ -112,8 +112,8 @@
 </a>
 
 <!-- BLOG-POST-LIST:START -->
+- [LangChainを活用してAIアシスタントDiscord Botを作ってみた件](https://qiita.com/Yoshipy/items/986fe45eb7ec85bbc3cb)
 - [静的webサイト制作Tipsまとめ](https://qiita.com/Yoshipy/items/8559aa53006c57d2dc22)
 - [マイクロサービス・アーキテクチャの「マ」](https://qiita.com/Yoshipy/items/abd4313617f6860c9efc)
 - [VSCode devcontainer + Dockerでシームレスな開発環境を構築してみた](https://qiita.com/Yoshipy/items/539ca6696bcd3d3815b5)
-- [DockerでVue.jsとFlaskを連携するSPA開発](https://qiita.com/Yoshipy/items/efbe34d9f28ac16f44ad)
 <!-- BLOG-POST-LIST:END -->
